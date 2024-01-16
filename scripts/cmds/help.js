@@ -12,7 +12,7 @@ const doNotDelete = "[ 𝙼𝚘𝚌𝚑𝚊 | 🧋✨ ]";
 
 module.exports = {
 	config: {
-		name: "help",
+		name: "mhelp",
 		version: "1.18",
 		author: "NTKhang",
 		countDown: 5,
